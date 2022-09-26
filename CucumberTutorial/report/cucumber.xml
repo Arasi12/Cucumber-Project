@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="0.431">
+    <testcase classname="Login feature Date table with Example" name="This is Login scenario using Date table with Example" time="0.1">
+        <system-out><![CDATA[Given User enters url of Login page1........................................passed
+When user enter valid "Admin" and "admin123"................................passed
+And selects the login button1...............................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
